@@ -50,7 +50,6 @@ summary {
  * 1. Correct `inline-block` display not defined in IE 8/9.
  * 2. Normalize vertical alignment of `progress` in Chrome, Firefox, and Opera.
  */
-
 audio,
 canvas,
 progress,
@@ -604,7 +603,7 @@ body {
 
 .header {
   padding: 0;
-  background-image: url(../assets/imgs/header.jpg);
+  background-image: url(../imgs/header.jpg);
   background-size: cover;
 }
 
